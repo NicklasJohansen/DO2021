@@ -8,6 +8,8 @@
 *.nbgrader.log
 *Kahoot*
 *teaching_material/*
+*Icon*
+*.DS_Store*
 src_material/*
 
 
