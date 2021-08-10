@@ -1,4 +1,4 @@
-baseurl = "https://nicklasjohansen.github.io/DO2021/"
+baseurl = "https://nicklasjohansen.github.io/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Intro to Social Data Science"
@@ -42,9 +42,9 @@ publishDir = "docs"
 #  desc = "Hexagon"
 
 [Author]
-  name = "Andreas Bjerre-Nielsen"
-  website = "abjer.github.io"
-  email = "abn@sodas.ku.dk"
+  name = "Nicklas Johansen"
+  website = "https://nicklasjohansen.netlify.app/"
+  email = "nj@sodas.ku.dk"
 
   # Menu links
   [[menu.main]]
