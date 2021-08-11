@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Datadrevet Organisationsanalyse</title>
-    <link>https://nicklasjohansen.github.io/categories/</link>
-    <description>Recent content in Categories on Datadrevet Organisationsanalyse</description>
+    <title>Categories on Intro to Social Data Science</title>
+    <link>https://isdsucph.github.io/isds2021/categories/</link>
+    <description>Recent content in Categories on Intro to Social Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>nj@sodas.ku.dk (Nicklas Johansen)</managingEditor>
-    <webMaster>nj@sodas.ku.dk (Nicklas Johansen)</webMaster><atom:link href="https://nicklasjohansen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</managingEditor>
+    <webMaster>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</webMaster><atom:link href="https://isdsucph.github.io/isds2021/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
