@@ -1,34 +1,25 @@
 ---
-title: Installation
+title: Install
 date: 2021-07-01
 ---
 
-This class will involve a lot of coding, for which you will need some basic tools.
+## Installering
+Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi får brug for en masse værktøjer:
+- Python
+- Jupyter Notebook
+- Github for desktop
+- Github account
 
-1. [Python and Jupyter notebook](#python-and-jupyter-notebook)
-2. [A git client](#a-git-client)
-3. [A github account](#a-github-account)
+Vi forventer at du har installeret dem inden første forelæsning. Brug vores vejledninger eller fremsøg anden hjælp på google. Worst case scenario kigger vi på det til en af de første undervisningsgange. 
 
-We will discuss these tools in much more detail in class, so don't worry if this is all new and perhaps a bit frightening right now.
+#### Python
+[Python](https://www.python.org/) er et gratis programmeringssprog. Vi kommer til at bruge Python version 3.7 (eller højere). 
 
+Du kan installere Python ved at installere [Anaconda](https://docs.anaconda.com/anaconda/) på [dette link](https://www.anaconda.com/distribution/#download-section). 
+- Windows [guide] (https://docs.anaconda.com/anaconda/install/windows/) og [video](https://www.youtube.com/watch?v=Vt6loGK9Adc)
+- Mac [guide](https://docs.anaconda.com/anaconda/install/mac-os/) og [video](https://www.youtube.com/watch?v=OOFONKvaz0A)
 
-## Python and Jupyter notebook
-
-[Python](https://www.python.org/) is a free programming language. We will use the distribution called [Anaconda](https://docs.anaconda.com/anaconda/) as it comes with the most essential for working with data, statistical computing and visualizations. We will use Anaconda for Python 3.7 throughout the course, so please make sure it is installed on your computer before first day of class. It works on all platforms.
-
-Anaconda can be downloaded [here](https://www.anaconda.com/distribution/#download-section), for Windows, Mac or Linux.
-If you want to watch a step-by-step tutorial on how to install Anaconda and Jupyter Notebook for you machine see the guides here:
-
-- Install Anaconda for Windows by [following these steps](https://docs.anaconda.com/anaconda/install/windows/) or [watch this video](https://www.youtube.com/watch?v=Vt6loGK9Adc)
-- Install Anaconda for Mac by [following these steps](https://docs.anaconda.com/anaconda/install/mac-os/) or [watch this video](https://www.youtube.com/watch?v=OOFONKvaz0A)
-
-Since the vast majority of our coding will be in the Python language, we will use an integrated development environment ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)). IDEs integrate text editing, syntax highlighting, and version control,
-simplifying the coding process. These packages are automatically included in Anaconda [Jupyter Notebook](https://jupyter.org). It's free and modern, and if you're new to Python this will make it much easier to get started. All Python coding in this course will be done in Jupyter Notebook.
-
-
-#### Verifying the installation
-
-After installation of Python please to execute a number of commands in the shell. You need to first open your local shell, this is the `Anaconda Prompt` on Windows or `terminal` on Linux/Mac. See details [here](https://docs.anaconda.com/anaconda/user-guide/getting-started/). Once the shell is open type `python` - this will start Python. Once you have Python started please try the following two commands to verify that it's working.
+Du kan teste om det er lykkedes dig at installere python på din computer ved at skrive et par kommandoer i shell. På Windows hedder shell (programmet du skal åbne) “command prompt”, “kommandoprompt” eller “Anaconda prompt”. På Mac hedder det “Terminal”.  Når du har åbnet shell kan du prøve at skrive “python” - dette vil starte python. Prøv herefter disse to kommandoer for at tjekke om du får det samme output. 
 
 ```python
 1+2
@@ -36,67 +27,33 @@ After installation of Python please to execute a number of commands in the shell
 ```
 
 ```python
-print('Welcome to Introduction to Social Data Science')
->>> Welcome to Introduction to Social Data Science
-```
+print('Velkommen til Datadrevet Organisationsanalyse')
+>>> Velkommen til Datadrevet Organisationsanalyse
 
-#### Welcome to open source
-To know core Python is powerful in itself, but the great potentials lie in the huge community of developers and researchers contributing to a shared pool of software packages. A programming language is as powerful as the community that surrounds it. Especially in the field of machine learning, the Python community is leading the way, allowing you to share code with top researchers from the field and industry, among others Google's top engineering teams. Tapping into these vast resources is made easy by the Conda distribution and the pip package manager. Just open your shell/command-line/terminal and type the following:
-`conda install [name of package]`
+Python er verdens mest populære programmeringssprog. Alle bruger python; studerende, forskere og folk fra industrien. Der er et kæmpe community, hvor folk kan udvikle på sproget og udvikle diverse hjælpepakker, også kaldet libraries. Vi kommer til at bruge en masse libraries i løbet af semesteret. En pakke kan nemt installeres ved at skrive følgende kommando i shell:
+`conda install [name of package]` eller `pip install [name of package]`.
 
-or if conda does not support it directly use the more generic package manager:
-`pip install [name of package]`
+#### Jupyter Notebook
+Programmører skriver ofte deres kode i en [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) (integrated development environment) på grund af de mange seje funktioner til at rette små detaljer, highlighte syntaks og udføre versionskontrol. Det svarer til, at en studerende bruger word fremfor at skrive direkte i en .txt fil. 
 
+I dette kursus kommer vi til at bruge Jupyter Notebook som vores IDE. Det er gratis og gør det meget nemmere at lære at kode. Du har allerede installeret Jupyter Notebook, da det bliver installeret sammen med python vba. Anaconda. 
 
-#### Using Jypyter notebook
-The [Jupyter Notebook App](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app) can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (only Windows) or by typing the following either in a terminal (on Mac/Linux) or cmd (on Windows).
+Man kan åbne Jupyter Notebook gennem Anaconda ([se guide](https://docs.anaconda.com/anaconda/user-guide/getting-started/)) eller ved at skrive “jupyter notebook” i shell ([se guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)). En ny tap åbner i din standard browser og du kan nu klikke dig rundt ligesom når du hopper rundt i din lokale mappestruktur på din computer. 
 
-`jupyter notebook`
-
-This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
-
-#### Getting friendly with Jupyter
-
-Try to spend a little time familiarizing yourself with the Jupyter framework. For instance, try learning a few of your editor's keyboard shortcuts; see our post [here](/isds2021/post/jupyter/). The point is to be as productive as possible when working with the computer. Karl Broman, a professor of biostatistics and medical informatics at the University of Wisconsin-Madison, gives some great advice for working with code:
+Oppe i højre hjørne kan du lave en python fil (.ipynb) og dermed komme igang med at kode. Brug en masse tid på at øve dig på at bruge Jupyter. Du kan fx. lære [diverse genvejstaster](),  forsøge at bygge en funktioner der kan udregne BMI samt trykke på alle knaperne i menulinjen for at udforske Jupyters funktionalitet. Karl Broman, professor i biostatistics, University of Wisconsin-Madison: 
 
 > The key thing I emphasize to students is they should be using the mouse as little as possible. Every time you move your hands away from the keys, you're slowing yourself down.
 
+Andre Jupyter Notebook ressourcer:
+- [Jupyter Notebook Tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+- [Jupyter Notebook Documentation](http://jupyter.readthedocs.io/en/latest/)
 
 
-## A Git client
+#### Github
+[Git](http://git-scm.com) er et versionskontrol-værktøj som programmører bruger til at tracke modifikationer til filer og code over tid. Derudover kan man bruge git til at samarbejde således at flere kan dele og rette den samme kode samtidig. 
 
-[Git](http://git-scm.com) is a version control system that allows you to track modifications to files and code over time. It also facilitates collaborations so that multiple people can share and edit the same code base.
+[Github](http://github.com) er en platform hvor folk kan samarbejde på projekter der bruger git til versionskontrol. Du kan bruge Github til at hoste, udgive og dele projekter. [Opret en github ](https://help.github.com/articles/signing-up-for-a-new-github-account/) hvis du ikke allerede har en.
 
-If you are on Windows you can install [Github Desktop](https://desktop.github.com) which provides both the command line tool for git and a graphical user interface. Alternatively, you can install git as an optional package under Cygwin. I recommend the Github application, as it will be easier to interface with Github using it. Likewise, modern versions of Mac OS X have a command line git client installed by default, but the [Github Desktop](https://desktop.github.com) tool is a recommended addition.
+[Github Desktop](https://desktop.github.com) er en brugervenlig interface som vi kan bruge til git. Download det og klik “clone repository” også “url”.. Når du er logget ind på github og tilgår [kursets repository](https://github.com/NicklasJohansen/DO2021/) kan du trykke på dropdown-menuen hvor der står code og kopiere det link du skal indsætte i Github Desktop. Prøv at find ``DO2021`` mappen på din computer og tjek om den indeholder en ``README.md`` fil.
 
-## A Github account
-
-[Github](http://github.com) is a platform that facilitates collaboration on projects that use git. You can use it to host projects, publish them to the web, and share them with other people. [Create a free account](https://help.github.com/articles/signing-up-for-a-new-github-account/) if you don't already have one.
-
-Once you have an account, clone the [course repository](https://github.com/isdsucph/isds2021) using your local git client. This is most easily done on the command line as follows:
-
-```
-    # git clone https://github.com/abjer/isds2020
-	Cloning into 'isds2020'...
-	remote: Counting objects: 145, done.
-	remote: Compressing objects: 100% (98/98), done.
-	remote: Total 145 (delta 40), reused 137 (delta 37)
-	Receiving objects: 100% (145/145), 454.90 KiB | 594.00 KiB/s, done.
-	Resolving deltas: 100% (40/40), done.
-	Checking connectivity... done.
-```
-
-When this is complete, verify that you have a local directory called ``isds2021`` containing a ``README.md`` file.
-
-Afterwards you can subscribe to updates, small and big, by using `Watch` or `Star` within the GitHub page.
-
-
-## A text editor (optional)
-
-An important alternative to Jupyter is a decent text editor. A text editor is a program that lets you work with plain-text files. You should pick an editor capable of syntax highlighting, syntax checking (ensuring that brackets and parentheses are properly paired), and handling multiple files. We highly recommend:
-
-- [VSCode](https://code.visualstudio.com/) or [Atom](https://atom.io/)
-
-Another good option is [Sublime Text](http://www.sublimetext.com/).
-
-All three of these can be extended by installing "packages". No matter your choice of editor it is a good idea to find and install extensions that are designed to help you with python programming.
+Hver uge vil vi uploade nye filer til github som du nemt kan downloade ved at fetche den nyeste version. Se eventuelt [denne video](https://www.youtube.com/watch?v=77W2JSL7-r8). 

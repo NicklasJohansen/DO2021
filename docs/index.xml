@@ -7,92 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>nj@sodas.ku.dk (Nicklas Johansen)</managingEditor>
     <webMaster>nj@sodas.ku.dk (Nicklas Johansen)</webMaster>
-    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nicklasjohansen.github.io/DO2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nicklasjohansen.github.io/DO2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Course readings</title>
-      <link>https://nicklasjohansen.github.io/DO2021/page/readings/</link>
-      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <title>Læsning</title>
+      <link>https://nicklasjohansen.github.io/DO2021/page/l%C3%A6sning/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
-      <guid>https://nicklasjohansen.github.io/DO2021/page/readings/</guid>
+      <guid>https://nicklasjohansen.github.io/DO2021/page/l%C3%A6sning/</guid>
       <description>Textbook for general introduction to social data science:
  Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB], free online version here.  Textbooks for data science in Python
- Python for Data Analysis, 2nd ed. (2017) by Wes McKinney [PDA] Python Machine Learning, 2nd ed. (2017) by Sebastian Raschka &amp;amp; Vahid Mirjalili [PML]  Preparation and Assignment 0 The course begin with your preparation for the teaching.</description>
+ Python for Data Analysis, 2nd ed. (2017) by Wes McKinney [PDA], free online version here.  Assignment 0 - Python Vi forventer at du har løst Assignment 0 inden første forelæsning. Assignment 0 er et læringsmodul der er udviklet for at sikre at du har de rette forudsætninger for at kunne følge Datadrevet Organisationsanalyse.</description>
     </item>
     
     <item>
       <title>Timeplan</title>
-      <link>https://nicklasjohansen.github.io/DO2021/page/timeplan/</link>
+      <link>https://nicklasjohansen.github.io/DO2021/page/tidsplan/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
-      <guid>https://nicklasjohansen.github.io/DO2021/page/timeplan/</guid>
+      <guid>https://nicklasjohansen.github.io/DO2021/page/tidsplan/</guid>
       <description>This page contains a schedule of the teaching sessions. Most of the teaching will take place August 02-13, 2021, with additional supervision on August 17. Each day will generally contain one-two teaching sessions. Most sessions will follow the daily schedule below:
  Morning session (9-12):  9-10 Live lecture, 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises  Lunch break (12-13): Afternoon session (13-16):  13-14 Live lecture, 14-16 Notebook with integrated lecturing videos on technical aspects of the session + exercises  Office hour, optional: 16-17 (booking system through Google Sheets, see link in the schedule below)  The complete schedule of sessions is listed below with title, lecturer and links to material.</description>
     </item>
     
     <item>
       <title>Assignments</title>
-      <link>https://nicklasjohansen.github.io/DO2021/post/assignment/</link>
+      <link>https://nicklasjohansen.github.io/DO2021/post/assignments/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
-      <guid>https://nicklasjohansen.github.io/DO2021/post/assignment/</guid>
-      <description>This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information. All assignments must be handed via Absalon here.
-Assignment 0: Available now, here. Deadline July 28 @ 12.00
-Assignment 1: Available August 3. Deadline August 6 @ 23.59
-Assignment 2: Available August 10. Deadline August 13 @ 23.59</description>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/assignments/</guid>
+      <description>Forberedelse inden kursusstart Det er vigtigt at du forbereder dig til dette kursus. Vi har forsøgt at designe et fedt kurset således at alle der vil kan klare sig godt, men det kræver fordybelse, isæt hvis du aldrig har haft et universitetskursus i organisationsteori og/eller python. Herunder kan du læse om kursets større opgaver, også kaldet for assignments. Man kan godt gå til eksamen uden at løse assignments, men vi anbefaler at man forsøger at bestå alle assignments.</description>
     </item>
     
     <item>
       <title>Exam project</title>
-      <link>https://nicklasjohansen.github.io/DO2021/post/exam/</link>
+      <link>https://nicklasjohansen.github.io/DO2021/post/eksamen/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
-      <guid>https://nicklasjohansen.github.io/DO2021/post/exam/</guid>
-      <description>When the teaching in our course finishes you are to hand in a project. The formal requirements are found here along with details on grading. The exam period runs until August 24 at 10 AM.
-In this blog post we want to expand a little bit on how a good project will look. The focus of the project is to pose and interesting question to data that can be collected publicly and attempt to answer it.</description>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/eksamen/</guid>
+      <description>Under produktion</description>
     </item>
     
     <item>
-      <title>Installation</title>
+      <title>Install</title>
       <link>https://nicklasjohansen.github.io/DO2021/post/install/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
       <guid>https://nicklasjohansen.github.io/DO2021/post/install/</guid>
-      <description>This class will involve a lot of coding, for which you will need some basic tools.
- Python and Jupyter notebook A git client A github account  We will discuss these tools in much more detail in class, so don&amp;rsquo;t worry if this is all new and perhaps a bit frightening right now.
-Python and Jupyter notebook Python is a free programming language. We will use the distribution called Anaconda as it comes with the most essential for working with data, statistical computing and visualizations.</description>
-    </item>
-    
-    <item>
-      <title>Practical info</title>
-      <link>https://nicklasjohansen.github.io/DO2021/page/practical/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
-      <guid>https://nicklasjohansen.github.io/DO2021/page/practical/</guid>
-      <description>This page contains information about the course groups as well as information on mandatory assignments and exam project.
-Place and time The course runs from August 2, 2021 to August 24. See timeplan for teaching schedule.
-The teaching format will be a mix of online and teaching on campus.
- All lectures will be online and consist of an on-demand part and live part where questions are answered. Lab/exercise classes will run both online and on-campus.</description>
+      <description>Installering Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi får brug for en masse værktøjer:
+ Python Jupyter Notebook Github for desktop Github account  Vi forventer at du har installeret dem inden første forelæsning. Brug vores vejledninger eller fremsøg anden hjælp på google. Worst case scenario kigger vi på det til en af de første undervisningsgange.
+Python Python er et gratis programmeringssprog. Vi kommer til at bruge Python version 3.</description>
     </item>
     
     <item>
       <title>Preparation</title>
-      <link>https://nicklasjohansen.github.io/DO2021/post/preparation/</link>
+      <link>https://nicklasjohansen.github.io/DO2021/post/velkommen/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
-      <guid>https://nicklasjohansen.github.io/DO2021/post/preparation/</guid>
-      <description>Guide to preparations It is necessary that you time preparing for the course. We expect that you have spent up 50 hours on learning basic Python and pandas before we begin teaching, depending on your prior experience. In particular you should do the following (prioritized order):
- Install anaconda and other software Open Assignment 0 in Jupyter notebook, see this guide on how to open and use a notebook Work on Assignment 0 - try to solve as much as possible When you get stuck then follow the trouble shooting guideline below - start with a) and move to d)  Assignment 0 In preparation for the course you are expected to hand in an assignment in Python before lectures begin.</description>
-    </item>
-    
-    <item>
-      <title>Useful Jupyter tips</title>
-      <link>https://nicklasjohansen.github.io/DO2021/post/jupyter/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
-      <guid>https://nicklasjohansen.github.io/DO2021/post/jupyter/</guid>
-      <description>This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
-Keyboard short cuts Editing and executing cells
- enter edit mode: click inside the cell or press ENTR exit edit mode: click outside cell or press ESC. executing code within a cell is SHFT+ENTR or CTRL+ENTR (not same!</description>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/velkommen/</guid>
+      <description>Under produktion</description>
     </item>
     
   </channel>

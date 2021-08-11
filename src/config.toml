@@ -56,35 +56,32 @@ publishDir = "docs"
       name = "Posts"
       weight = 2
   [[menu.main]]
-      name = "Readings"
+      name = "Læsning"
       weight = 3
-      url = "page/readings/"
+      url = "page/læsning/"
   [[menu.main]]
-      name = "Timeplan"
+      name = "Tidsplan"
       weight = 4
-      url = "page/timeplan/"
-  [[menu.main]]
-      name = "Practical info"
-      weight = 5
-      url = "page/practical/"
+      url = "page/tidsplan/"
+
   # Posts
   [[menu.main]]
       parent = "posts"
-      name = "Preparation"
-      url = "post/preparation/"
+      name = "Velkommen"
+      url = "post/velkommen/"
       weight = 1
   [[menu.main]]
       parent = "posts"
-      name = "Assignments"
-      url = "post/assignment/"
+      name = "Install"
+      url = "post/install/"
       weight = 2
   [[menu.main]]
       parent = "posts"
-      name = "Installation"
-      url = "post/install/"
+      name = "Assignments"
+      url = "post/assignments/"
       weight = 3
   [[menu.main]]
       parent = "posts"
-      name = "Jupyter tips"
-      url = "post/jupyter/"
+      name = "Eksamen"
+      url = "post/eksamen/"
       weight = 4
