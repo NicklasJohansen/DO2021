@@ -30,27 +30,18 @@
     </item>
     
     <item>
-      <title>Eksamen</title>
-      <link>https://nicklasjohansen.github.io/DO2021/post/eksamen/</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Velkommen</title>
+      <link>https://nicklasjohansen.github.io/DO2021/post/velkommen/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
-      <guid>https://nicklasjohansen.github.io/DO2021/post/eksamen/</guid>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/velkommen/</guid>
       <description>Under produktion</description>
-    </item>
-    
-    <item>
-      <title>Assignments</title>
-      <link>https://nicklasjohansen.github.io/DO2021/post/assignments/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
-      <guid>https://nicklasjohansen.github.io/DO2021/post/assignments/</guid>
-      <description>Forberedelse inden kursusstart Det er vigtigt at du forbereder dig til dette kursus. Vi har forsøgt at designe et fedt kurset således at alle der vil kan klare sig godt, men det kræver fordybelse, isæt hvis du aldrig har haft et universitetskursus i organisationsteori og/eller python. Herunder kan du læse om kursets større opgaver, også kaldet for assignments. Man kan godt gå til eksamen uden at løse assignments, men vi anbefaler at man forsøger at bestå alle assignments.</description>
     </item>
     
     <item>
       <title>Install</title>
       <link>https://nicklasjohansen.github.io/DO2021/post/install/</link>
-      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
       <guid>https://nicklasjohansen.github.io/DO2021/post/install/</guid>
       <description>Installering Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi får brug for en masse værktøjer:
@@ -59,11 +50,20 @@ Python Python er et gratis programmeringssprog. Vi kommer til at bruge Python ve
     </item>
     
     <item>
-      <title>Velkommen</title>
-      <link>https://nicklasjohansen.github.io/DO2021/post/velkommen/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Assignments</title>
+      <link>https://nicklasjohansen.github.io/DO2021/post/assignments/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
-      <guid>https://nicklasjohansen.github.io/DO2021/post/velkommen/</guid>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/assignments/</guid>
+      <description>Forberedelse inden kursusstart Det er vigtigt at du forbereder dig til dette kursus. Vi har forsøgt at designe et fedt kurset således at alle der vil kan klare sig godt, men det kræver fordybelse, isæt hvis du aldrig har haft et universitetskursus i organisationsteori og/eller python. Herunder kan du læse om kursets større opgaver, også kaldet for assignments. Man kan godt gå til eksamen uden at løse assignments, men vi anbefaler at man forsøger at bestå alle assignments.</description>
+    </item>
+    
+    <item>
+      <title>Eksamen</title>
+      <link>https://nicklasjohansen.github.io/DO2021/post/eksamen/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/eksamen/</guid>
       <description>Under produktion</description>
     </item>
     
