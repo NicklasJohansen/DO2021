@@ -1,6 +1,6 @@
 ---
 title:  "Assignments"
-date: 2021-07-01
+date: 2021-08-03
 ---
 
 ## Forberedelse inden kursusstart

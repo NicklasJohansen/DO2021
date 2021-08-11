@@ -1,6 +1,6 @@
 ---
 title: Install
-date: 2021-07-01
+date: 2021-08-02
 ---
 
 ## Installering

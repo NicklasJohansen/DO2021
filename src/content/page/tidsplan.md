@@ -1,6 +1,6 @@
 ---
 title: Timeplan
-date: 2021-07-05
+date: 2021-08-11
 markup: mmark
 ---
 
