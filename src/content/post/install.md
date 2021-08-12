@@ -3,7 +3,6 @@ title: Install
 date: 2021-08-09
 ---
 
-## Installering
 Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi får brug for en masse værktøjer:
 - Python
 - Jupyter Notebook
@@ -12,6 +11,7 @@ Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi f
 
 Vi forventer at du har installeret dem inden første forelæsning. Brug vores vejledninger eller fremsøg anden hjælp på google. Worst case scenario kigger vi på det til en af de første undervisningsgange. 
 
+&nbsp;
 #### Python
 [Python](https://www.python.org/) er et gratis programmeringssprog. Vi kommer til at bruge Python version 3.7 (eller højere). 
 
@@ -35,6 +35,7 @@ Python er verdens mest populære programmeringssprog. Alle bruger python; studer
 `conda install [name of package]` eller `pip install [name of package]`.
 
 
+&nbsp;
 #### Jupyter Notebook
 Programmører skriver ofte deres kode i en [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) (integrated development environment) på grund af de mange seje funktioner til at rette små detaljer, highlighte syntaks og udføre versionskontrol. Det svarer til, at en studerende bruger word fremfor at skrive direkte i en .txt fil. 
 
@@ -51,6 +52,7 @@ Andre Jupyter Notebook ressourcer:
 - [Jupyter Notebook Documentation](http://jupyter.readthedocs.io/en/latest/)
 
 
+&nbsp;
 #### Github
 [Git](http://git-scm.com) er et versionskontrol-værktøj som programmører bruger til at tracke modifikationer til filer og code over tid. Derudover kan man bruge git til at samarbejde således at flere kan dele og rette den samme kode samtidig. 
 

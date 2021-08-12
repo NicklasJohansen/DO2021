@@ -14,9 +14,9 @@
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
       <guid>https://nicklasjohansen.github.io/DO2021/page/l%C3%A6sning/</guid>
-      <description>Overblik Vi kommer til at bruge lærebøger, videnskabelige artikler og online blogindlæg. Herunder er lærebøgerne listet. Bemærk forkortelsen vi kommer til at bruge længere nede på siden.
-Lærebog - introduktion til social data science:
- Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB], free online version here.  Lærebog - introduktion til python:
+      <description>Vi kommer til at bruge lærebøger, videnskabelige artikler og online blogindlæg. Herunder er lærebøgerne listet. Bemærk forkortelsen vi kommer til at bruge længere nede på siden.
+&amp;nbsp; Lærebog - introduktion til social data science:
+ Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB], free online version here.  &amp;nbsp; Lærebog - introduktion til python:
  Python for Data Analysis, 2nd ed. (2017) by Wes McKinney [PDA], free online version here.</description>
     </item>
     
@@ -46,9 +46,9 @@ Undervisningen finder sted om onsdagen i lokale CSS 35-01-06 (Center for Sundhed
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
       <guid>https://nicklasjohansen.github.io/DO2021/post/install/</guid>
-      <description>Installering Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi får brug for en masse værktøjer:
+      <description>Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi får brug for en masse værktøjer:
  Python Jupyter Notebook Github for desktop Github account  Vi forventer at du har installeret dem inden første forelæsning. Brug vores vejledninger eller fremsøg anden hjælp på google. Worst case scenario kigger vi på det til en af de første undervisningsgange.
-Python Python er et gratis programmeringssprog. Vi kommer til at bruge Python version 3.</description>
+ Python Python er et gratis programmeringssprog. Vi kommer til at bruge Python version 3.</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ Python Python er et gratis programmeringssprog. Vi kommer til at bruge Python ve
       <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
       <guid>https://nicklasjohansen.github.io/DO2021/post/assignments/</guid>
-      <description>Forberedelse inden kursusstart Det er vigtigt at du forbereder dig til dette kursus. Vi har forsøgt at designe et fedt kurset således at alle der vil kan klare sig godt, men det kræver fordybelse, isæt hvis du aldrig har haft et universitetskursus i organisationsteori og/eller python. Herunder kan du læse om kursets større opgaver, også kaldet for assignments. Man kan godt gå til eksamen uden at løse assignments, men vi anbefaler at man forsøger at bestå alle assignments.</description>
+      <description>Det er vigtigt at du forbereder dig til dette kursus. Vi har forsøgt at designe et fedt kurset således at alle der vil kan klare sig godt, men det kræver fordybelse, isæt hvis du aldrig har haft et universitetskursus i organisationsteori og/eller python. Herunder kan du læse om kursets større opgaver, også kaldet for assignments. Man kan godt gå til eksamen uden at løse assignments, men vi anbefaler at man forsøger at bestå alle assignments.</description>
     </item>
     
     <item>
