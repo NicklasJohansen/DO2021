@@ -13,7 +13,7 @@ Vi kommer til at bruge Absalon , Github og denne side
 Det er vigtigt at du investerer en masse tid og tanke i Datadrevet Organisationsanalyse. Udover 
 
 
-Vi glæder os til at møde jer onsdag d. 8 september 2021.
-Nicklas & Jacob
+Vi glæder os til at møde jer onsdag d. 8 september 2021.  
+Nicklas & Jacob  
 
-![Et fag tilbage](/image.png)
+![Et fag tilbage](/images/image.png)
