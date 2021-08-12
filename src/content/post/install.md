@@ -29,9 +29,11 @@ Du kan teste om det er lykkedes dig at installere python på din computer ved at
 ```python
 print('Velkommen til Datadrevet Organisationsanalyse')
 >>> Velkommen til Datadrevet Organisationsanalyse
+```
 
 Python er verdens mest populære programmeringssprog. Alle bruger python; studerende, forskere og folk fra industrien. Der er et kæmpe community, hvor folk kan udvikle på sproget og udvikle diverse hjælpepakker, også kaldet libraries. Vi kommer til at bruge en masse libraries i løbet af semesteret. En pakke kan nemt installeres ved at skrive følgende kommando i shell:
 `conda install [name of package]` eller `pip install [name of package]`.
+
 
 #### Jupyter Notebook
 Programmører skriver ofte deres kode i en [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) (integrated development environment) på grund af de mange seje funktioner til at rette små detaljer, highlighte syntaks og udføre versionskontrol. Det svarer til, at en studerende bruger word fremfor at skrive direkte i en .txt fil. 
