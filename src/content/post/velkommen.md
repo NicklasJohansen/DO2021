@@ -16,4 +16,4 @@ Det er vigtigt at du investerer en masse tid og tanke i Datadrevet Organisations
 Vi glæder os til at møde jer onsdag d. 8 september 2021.
 Nicklas & Jacob
 
-![Et fag tilbage](/static/image.png)
+![Et fag tilbage](/image.png)
