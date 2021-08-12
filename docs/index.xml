@@ -14,7 +14,7 @@
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
       <guid>https://nicklasjohansen.github.io/DO2021/page/l%C3%A6sning/</guid>
-      <description>Vi kommer til at bruge lærebøger, videnskabelige artikler og online blogindlæg. Herunder er lærebøgerne listet. Bemærk forkortelsen vi kommer til at bruge længere nede på siden.
+      <description>Vi kommer til at bruge lærebøger, videnskabelige artikler og online blogindlæg. Herunder har vi listet de største kilder så vi nemt kan referer til dem længere nede på siden.
  [BBB]: Big by Bit - Social research in the digital age by Matthew J. Salganik, free online version here. [PDA]: Python for Data Analysis, 2nd ed. (2017) by Wes McKinney, free online version here. [Scott &amp;amp; Davis]: W. Richard Scott, Gerald Fredrick Davis (2007): Organizations and organizing: rational, natural, and open systems perspectives.</description>
     </item>
     
@@ -45,8 +45,9 @@ Undervisningen finder sted om onsdagen i lokale CSS 35-01-06 (Center for Sundhed
       <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
       <guid>https://nicklasjohansen.github.io/DO2021/post/install/</guid>
       <description>Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi får brug for en masse værktøjer:
- Python Jupyter Notebook Github for desktop Github account  Vi forventer at du har installeret dem inden første forelæsning. Brug vores vejledninger eller fremsøg anden hjælp på google. Worst case scenario kigger vi på det til en af de første undervisningsgange.
- Python Python er et gratis programmeringssprog. Vi kommer til at bruge Python version 3.</description>
+ Python Jupyter Notebook Github  Vi forventer at du har installeret værktøjerne inden første forelæsning. Brug vores vejledninger eller fremsøg anden hjælp på google.
+ Python Python er et gratis programmeringssprog. Vi kommer til at bruge Python version 3.7 (eller højere).
+Du kan installere Python ved at installere Anaconda på dette link.</description>
     </item>
     
     <item>

@@ -6,17 +6,16 @@ date: 2021-08-09
 Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi får brug for en masse værktøjer:
 - Python
 - Jupyter Notebook
-- Github for desktop
-- Github account
+- Github
 
-Vi forventer at du har installeret dem inden første forelæsning. Brug vores vejledninger eller fremsøg anden hjælp på google. Worst case scenario kigger vi på det til en af de første undervisningsgange. 
+Vi forventer at du har installeret værktøjerne inden første forelæsning. Brug vores vejledninger eller fremsøg anden hjælp på google. 
 
 &nbsp;
 ## Python
 [Python](https://www.python.org/) er et gratis programmeringssprog. Vi kommer til at bruge Python version 3.7 (eller højere). 
 
 Du kan installere Python ved at installere [Anaconda](https://docs.anaconda.com/anaconda/) på [dette link](https://www.anaconda.com/distribution/#download-section). 
-- Windows [guide] (https://docs.anaconda.com/anaconda/install/windows/) og [video](https://www.youtube.com/watch?v=Vt6loGK9Adc)
+- Windows [guide](https://docs.anaconda.com/anaconda/install/windows/) og [video](https://www.youtube.com/watch?v=Vt6loGK9Adc)
 - Mac [guide](https://docs.anaconda.com/anaconda/install/mac-os/) og [video](https://www.youtube.com/watch?v=OOFONKvaz0A)
 
 Du kan teste om det er lykkedes dig at installere python på din computer ved at skrive et par kommandoer i shell. På Windows hedder shell (programmet du skal åbne) “command prompt”, “kommandoprompt” eller “Anaconda prompt”. På Mac hedder det “Terminal”.  Når du har åbnet shell kan du prøve at skrive “python” - dette vil starte python. Prøv herefter disse to kommandoer for at tjekke om du får det samme output. 
