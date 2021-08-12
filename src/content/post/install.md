@@ -12,7 +12,7 @@ Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi f
 Vi forventer at du har installeret dem inden første forelæsning. Brug vores vejledninger eller fremsøg anden hjælp på google. Worst case scenario kigger vi på det til en af de første undervisningsgange. 
 
 &nbsp;
-#### Python
+## Python
 [Python](https://www.python.org/) er et gratis programmeringssprog. Vi kommer til at bruge Python version 3.7 (eller højere). 
 
 Du kan installere Python ved at installere [Anaconda](https://docs.anaconda.com/anaconda/) på [dette link](https://www.anaconda.com/distribution/#download-section). 
@@ -36,7 +36,7 @@ Python er verdens mest populære programmeringssprog. Alle bruger python; studer
 
 
 &nbsp;
-#### Jupyter Notebook
+## Jupyter Notebook
 Programmører skriver ofte deres kode i en [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) (integrated development environment) på grund af de mange seje funktioner til at rette små detaljer, highlighte syntaks og udføre versionskontrol. Det svarer til, at en studerende bruger word fremfor at skrive direkte i en .txt fil. 
 
 I dette kursus kommer vi til at bruge Jupyter Notebook som vores IDE. Det er gratis og gør det meget nemmere at lære at kode. Du har allerede installeret Jupyter Notebook, da det bliver installeret sammen med python vba. Anaconda. 
@@ -53,7 +53,7 @@ Andre Jupyter Notebook ressourcer:
 
 
 &nbsp;
-#### Github
+## Github
 [Git](http://git-scm.com) er et versionskontrol-værktøj som programmører bruger til at tracke modifikationer til filer og code over tid. Derudover kan man bruge git til at samarbejde således at flere kan dele og rette den samme kode samtidig. 
 
 [Github](http://github.com) er en platform hvor folk kan samarbejde på projekter der bruger git til versionskontrol. Du kan bruge Github til at hoste, udgive og dele projekter. [Opret en github ](https://help.github.com/articles/signing-up-for-a-new-github-account/) hvis du ikke allerede har en.

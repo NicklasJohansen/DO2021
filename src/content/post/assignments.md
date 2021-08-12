@@ -3,7 +3,7 @@ title:  "Assignments"
 date: 2021-08-08
 ---
 
-Det er vigtigt at du forbereder dig til dette kursus. Vi har forsøgt at designe et fedt kurset således at alle der vil kan klare sig godt, men det kræver fordybelse, isæt hvis du aldrig har haft et universitetskursus i organisationsteori og/eller python. Herunder kan du læse om kursets større opgaver, også kaldet for assignments. Man kan godt gå til eksamen uden at løse assignments, men vi anbefaler at man forsøger at bestå alle assignments. De er designet til at optimere udbyttet (læring + karakter) af kurset.
+Det er vigtigt at du forbereder dig til dette kursus. Vi har forsøgt at designe et fedt kurset således at alle der vil kan klare sig godt, men det kræver fordybelse, isæt hvis du aldrig har haft et universitetskursus i organisationsteori og/eller python. Herunder kan du læse om kursets større opgaver, også kaldet for assignments. Man kan godt gå til eksamen uden at løse assignments, men vi anbefaler at man forsøger at bestå alle assignments. De er designet til at optimere jeres udbytte (læring + karakter) af kurset.
 
 Vi forventer at du har løst Assignment 0 og Assignment 1 inden første forelæsning. Denne side indeholder praktisk information om opgaverne. Alle opgaver i kurset skal afleveres via Absalon på [dette link](https://absalon.ku.dk/courses/51834/assignments).
 
@@ -20,7 +20,7 @@ Assignment 0 er et læringsmodul der er udviklet for at sikre at du har de rette
 1. Læs nedenstående litteratur
 2. [Installer anaconda og andre software](/post/install/)
 3. Download Assignment 0 via Absalon
-4. Åben Assignment 0 i Jupyter Notebook, [guide] guide](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks).
+4. Åben Assignment 0 i Jupyter Notebook, [guide](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks).
 5. Løs Assignment 0 - gør dit bedste.
 6. Når du går i stå bør du troubleshooter i denne rækkefølge:
 	- Gennemse påkrævet litteratur for hjælp
@@ -42,7 +42,7 @@ Assignment 0 er et læringsmodul der er udviklet for at sikre at du har de rette
 
 &nbsp;
 ## Assignment 1 - Organisationsteori
-Assignment 1 omhandler organisationsteori. Du bedes læse tre kapitler fra Scott & Davis (2007) kapitel 2-4 (78 sider). De giver hvert sit perspektiv på og forståelse af organisation. Du vil modtage et SurveyXact link på din mail, hvor du bedes svare på nedenstående spørgsmål. Når du har udfyldt og indsendt spørgeskemaet har du afleveret Assignment 1. 
+Assignment 1 omhandler organisationsteori. Du bedes læse tre kapitler fra Scott & Davis (2007) kapitel 2-4 (78 sider). De giver hvert sit perspektiv på og forståelse af organisation. Du vil modtage et SurveyXact link på din mail, hvor du bedes svare på nedenstående spørgsmål. Når du har udfyldt og indsendt spørgeskemaet har du afleveret Assignment 1.
 
 &nbsp;
 #### Kap. 2: Organizations as Rational Systems
