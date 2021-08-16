@@ -3,7 +3,7 @@ title:  "Assignments"
 date: 2021-08-08
 ---
 
-Det er vigtigt at du forbereder dig til dette kursus. Vi har forsøgt at designe et fedt kurset således at alle der vil kan klare sig godt, men det kræver fordybelse, isæt hvis du aldrig har haft et universitetskursus i organisationsteori og/eller python. Herunder kan du læse om kursets større opgaver, også kaldet for assignments. Man kan godt gå til eksamen uden at løse assignments, men vi anbefaler at man forsøger at bestå alle assignments. De er designet til at optimere jeres udbytte (læring + karakter) af kurset.
+Det er vigtigt at du forbereder dig til dette kursus. Vi har forsøgt at designe et fedt kursus således at alle der vil kan klare sig godt, men det kræver fordybelse, især hvis du aldrig har haft et universitetskursus i organisationsteori og/eller python. Herunder kan du læse om kursets større opgaver, også kaldet for assignments. Man kan godt gå til eksamen uden at løse assignments, men vi anbefaler at man forsøger at bestå alle assignments. De er designet til at optimere jeres udbytte (læring + karakter) af kurset.
 
 Vi forventer at du har løst Assignment 0 og Assignment 1 inden første forelæsning. Denne side indeholder praktisk information om opgaverne. Alle opgaver i kurset skal afleveres via Absalon på [dette link](https://absalon.ku.dk/courses/51834/assignments).
 
@@ -18,11 +18,11 @@ Vi forventer at du har løst Assignment 0 og Assignment 1 inden første forelæs
 Assignment 0 er et læringsmodul der er udviklet for at sikre at du har de rette forudsætninger for at kunne følge [Datadrevet Organisationsanalyse](https://nicklasjohansen.github.io/DO2021/). Assignment 0 giver dig et overblik over basic python og hvordan man bruger det til dataanalyse. Du vil også blive introduceret til markdown. På kursets hjemmeside vil du finde hjælp til installation. Vi forventer at du har løst Assignment 0 inden første forelæsning. 
 
 1. Læs nedenstående litteratur
-2. [Installer anaconda og andre software](/post/install/)
+2. Installer kursets programmer på [dette link](DO2021/post/install/)
 3. Download Assignment 0 via Absalon
 4. Åben Assignment 0 i Jupyter Notebook, [guide](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks).
 5. Løs Assignment 0 - gør dit bedste.
-6. Når du går i stå bør du troubleshooter i denne rækkefølge:
+6. Når du går i stå bør du troubleshoote i denne rækkefølge:
 	- Gennemse påkrævet litteratur for hjælp
 	- Søg på google og læs især Q&A artikler fra [StackOverflow](https://stackoverflow.com/)
 	- Spørg en ven. Alle kender nogen der kan python. 
