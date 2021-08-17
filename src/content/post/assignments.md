@@ -18,7 +18,7 @@ Vi forventer at du har løst Assignment 0 og Assignment 1 inden første forelæs
 Assignment 0 er et læringsmodul der er udviklet for at sikre at du har de rette forudsætninger for at kunne følge [Datadrevet Organisationsanalyse](https://nicklasjohansen.github.io/DO2021/). Assignment 0 giver dig et overblik over basic python og hvordan man bruger det til dataanalyse. Du vil også blive introduceret til markdown. På kursets hjemmeside vil du finde hjælp til installation. Vi forventer at du har løst Assignment 0 inden første forelæsning. 
 
 1. Læs nedenstående litteratur
-2. Installer kursets programmer på [dette link](DO2021/post/install/)
+2. Installer kursets programmer på [dette link](/DO2021/post/install/)
 3. Download Assignment 0 via Absalon
 4. Åben Assignment 0 i Jupyter Notebook, [guide](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks).
 5. Løs Assignment 0 - gør dit bedste.
