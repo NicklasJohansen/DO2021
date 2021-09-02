@@ -31,11 +31,11 @@ Signaturforklaring:
 
 #### Inspirational reading
 - N/A
-- 
+
 
 &nbsp;
 ### Session 2 (Sep-15)
-#### Required readings (88 sider)
+#### Required readings (75 sider)
 - **[Bakka]**: Bakka, J. F., Lindkvist, L., & Fivelsdal, E. (2001). Organisationsteori: struktur, kultur, processer. (6 ed.) Liber. (29 sider). **[ABS]**.
 - **[Wilson]**: Wilson, J. Q. (1989). Bureaucracy: What government agencies do and why they do it. (32 sider). **[ABS]**.
 - **[Gerring]**: Gerring, John. "What Is a Case Study and What Is It Good For?" The American Political Science Review 98, no. 2 (2004): 341-54 (14 sider). **[KB]**.
@@ -45,7 +45,7 @@ Signaturforklaring:
 
 &nbsp;
 ### Session 3: 
-#### Required readings
+#### Required readings (74 sider)
 - **[Minto] ** Minto, Barbara. 2002. The pyramid principle: logic in writing and thinking. London: Financial Times Prentice Hall. Kap 1-3 (s. 5 - 31), kap. 5 - 6 (s. 63 - 85), kap. 8 (s. 113 - 136) (74 sider). **[ABS]**.
 
 #### Inspirational reading
