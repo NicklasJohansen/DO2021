@@ -24,5 +24,29 @@ Signaturforklaring:
 
 
 &nbsp;
-### Session 1 (Sep-8):
-Kommer snart
+### Session 1 (Sep-8)
+#### Required readings (15 sider)
+- **[Perrow]**: Perrow, Charles. “An Organizational Analysis of Organizational Theory.” Contemporary sociology (Washington) 29.3 (2000): 469–476. Web. (7 sider). **[KB]**.
+- **[Mills]**: Mills, Albert J., and Milorad. Novicevic. Management and Organizational History A Research Overview. Milton: Routledge, 2019. Print. (8 sider). **[KB]**.
+
+#### Inspirational reading
+- N/A
+- 
+
+&nbsp;
+### Session 2 (Sep-15)
+#### Required readings (88 sider)
+- **[Bakka]**: Bakka, J. F., Lindkvist, L., & Fivelsdal, E. (2001). Organisationsteori: struktur, kultur, processer. (6 ed.) Liber. (29 sider). **[ABS]**.
+- **[Wilson]**: Wilson, J. Q. (1989). Bureaucracy: What government agencies do and why they do it. (32 sider). **[ABS]**.
+- **[Gerring]**: Gerring, John. "What Is a Case Study and What Is It Good For?" The American Political Science Review 98, no. 2 (2004): 341-54 (14 sider). **[KB]**.
+
+#### Inspirational reading
+- **[Seawright & Gerring]**: Seawright, J., & Gerring, J. (2008). Case Selection Techniques in Case Study Research: A Menu of Qualitative and Quantitative Options. Political Research Quarterly, 61(2), 294–308. (15 sider). **[KB]**.
+
+&nbsp;
+### Session 3: 
+#### Required readings
+- **[Minto] ** Minto, Barbara. 2002. The pyramid principle: logic in writing and thinking. London: Financial Times Prentice Hall. Kap 1-3 (s. 5 - 31), kap. 5 - 6 (s. 63 - 85), kap. 8 (s. 113 - 136) (74 sider). **[ABS]**.
+
+#### Inspirational reading
+- N/A
