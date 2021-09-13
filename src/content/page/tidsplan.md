@@ -11,8 +11,8 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
 
 \#  | Dato (uge)  | Titel | Underviser | Materiale
 ------|------:|-------|:--------:|:------|
-01|Sep 08|Introduktion til Organisationsteori|JT| |
-  |      |Introduktion til Python|NJ|| 
+01|Sep 08|Introduktion til Organisationsteori|JT| [pdf](www.google.dk) |
+  |      |Introduktion til Python|NJ| [abs](www.google.dk) | 
 02|Sep 15|Fortsat organisationsteori og metode |JT| |
   |      |-|NJ|| 
 03|Sep 22|Struktureret problemløsning|JT| |
@@ -42,6 +42,9 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
   |      |-|NJ|| 
   |      | ---------   Deadline Eksamen  --------- | |
 
+#### Legend
+- pdf: Slides fra undervisning
+- abs: Link til Absalon subpage
 
 
 #### Undervisere
@@ -49,10 +52,3 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
 - [Jacob Troelsgård (JT)](https://forskning.ku.dk/soeg/result/?pure=da/persons/394369)
 
 
-#### Legend
-- nb: Slides and exercise in Jupyter Notebook format
-- nb sol: Slides and exercise in Jupyter Notebook format (Without solutions to the exercises you have to hand in)
-- {ex, le, sol}: Respectively refer to exercises, lecture slides or solutions in Jupyter Notebook format
-- pdf: Slides in PDF format or just PDF file
-- gs: Google Sheets link 
-- abs: Link to Absalon page with groups and TAs assigned for supervision 
