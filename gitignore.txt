@@ -9,5 +9,6 @@
 *Kahoot*
 *teaching_material/*
 src_material/*
-Icon*
+*Icon?
+*.DS_Store
 
