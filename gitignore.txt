@@ -9,5 +9,5 @@
 *Kahoot*
 *teaching_material/*
 src_material/*
-
+Icon*
 
