@@ -11,7 +11,7 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
 
 \#  | Dato (uge)  | Titel | Underviser | Materiale
 ------|------:|-------|:--------:|:------|
-01|Sep 08|Introduktion til Organisationsteori|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/module_1/module_1_slides.pdf) |
+01|Sep 08|Introduktion til Organisationsteori|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/module_1/session_1_slides.pdf) |
   |      |Python + Assignment 0|NJ| [abs](https://absalon.ku.dk/courses/51834/files/folder/Kursusmaterialer/Assignment%200?) | 
 02|Sep 15|Fortsat organisationsteori og metode |JT| |
   |      |-|NJ|| 
