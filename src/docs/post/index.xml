@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Datadrevet Organisationsanalyse</title>
+    <link>https://nicklasjohansen.github.io/DO2021/post/</link>
+    <description>Recent content in Posts on Datadrevet Organisationsanalyse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>nj@sodas.ku.dk (Nicklas Johansen)</managingEditor>
+    <webMaster>nj@sodas.ku.dk (Nicklas Johansen)</webMaster>
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nicklasjohansen.github.io/DO2021/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Velkommen</title>
+      <link>https://nicklasjohansen.github.io/DO2021/post/velkommen/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/velkommen/</guid>
+      <description>Velkommen til Datadrevet Organisationsanalyse. Vi har brugt et år på at udvikle faget og har store ambitioner. Vi håber at det bliver sjovt, lærerrigt og alt i alt et fedt fag i vil huske tilbage på. Vi har forsøgt at prioritere tværfaglighed i pensum, gruppedannelse og i de metoder vi kommer til at anvende i faget.
+Undervisningen finder sted om onsdagen i lokale CSS 35-01-06 (Center for Sundhed og Samfund, bygning 35, kælder, lokale 6) i tidsrummet 13:15-15:00.</description>
+    </item>
+    
+    <item>
+      <title>Install</title>
+      <link>https://nicklasjohansen.github.io/DO2021/post/install/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/install/</guid>
+      <description>Vi kommer til at kode en masse til Datadrevet Organisationsanalyse, hvorfor vi får brug for en masse værktøjer:
+ Python Jupyter Notebook Github  Vi forventer at du har installeret værktøjerne inden første forelæsning. Brug vores vejledninger eller fremsøg anden hjælp på google.
+ Python Python er et gratis programmeringssprog. Vi kommer til at bruge Python version 3.7 (eller højere).
+Du kan installere Python ved at installere Anaconda på dette link.</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>https://nicklasjohansen.github.io/DO2021/post/assignments/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/assignments/</guid>
+      <description>Det er vigtigt at du forbereder dig til dette kursus. Vi har forsøgt at designe et fedt kursus således at alle der vil kan klare sig godt, men det kræver fordybelse, især hvis du aldrig har haft et universitetskursus i organisationsteori og/eller python. Herunder kan du læse om kursets større opgaver, også kaldet for assignments. Man kan godt gå til eksamen uden at løse assignments, men vi anbefaler at man forsøger at bestå alle assignments.</description>
+    </item>
+    
+    <item>
+      <title>Eksamen</title>
+      <link>https://nicklasjohansen.github.io/DO2021/post/eksamen/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/eksamen/</guid>
+      <description>I starten af semesteret vil I blive inddelt i grupper. Disse grupper skaber fundamentet for samarbejde til undervisningsgange såvel som jeres eksamensprojekt.
+Det forventes, at I afleverer en skriftlig opgave, hvor I har analyseret en selvvalgt organisatorisk problemstilling med tilhørende dataindsamling, dataanalyse, metodevalg osv. Derudover forventes det, at I vedlægger jeres kode som bilag. Deadline for aflevering af ordinær eksamen er d. 22. december 2021. Deadline for aflevering af syge- og reeksamen er d.</description>
+    </item>
+    
+  </channel>
+</rss>
