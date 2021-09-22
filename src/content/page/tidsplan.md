@@ -16,7 +16,7 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
 02|Sep 15|Fortsat organisationsteori og metode |JT| |
   |      | Data Structuring 1 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_2/session_2_slides.ipynb) | 
 03|Sep 22|Struktureret problemløsning|JT| |
-  |      | Data Structuring 2 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.ipynb) | 
+  |      | Data Structuring 2 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.ipynb),  [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises.ipynb.ipynb)| 
 04|Sep 29|Business case|JT||
   |      |-|NJ|| 
 05|Okt 06|-|NJ| |

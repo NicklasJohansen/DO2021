@@ -11,6 +11,7 @@ Signaturforklaring:
 - **[KB]** : Materialet findes tilgængeligt via KU/Det Kongelige Bibliotek  
 - **[NET]** : Materialet er frit tilgængeligt på nettet
 
+
 &nbsp;
 ### Assignment 0:
 - **[McKinney]**: [Python for Data Analysis, 2nd ed.](http://wesmckinney.com/pages/book.html) (2017) by Wes McKinney, free online version [here](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf). **[NET]**.
@@ -23,11 +24,13 @@ Signaturforklaring:
 - **[Perrow]**: Charles Perrow (1986): Complex Organizations, New York: McGraw-Hill. **[ABS]**.
 
 
+
 &nbsp;
 ### Session 1 (Sep-8)
 #### Required readings (15 sider)
 - **[Perrow]**: Perrow, Charles. “An Organizational Analysis of Organizational Theory.” Contemporary sociology (Washington) 29.3 (2000): 469–476. Web. (7 sider). **[KB]**.
 - **[Mills]**: Mills, Albert J., and Milorad. Novicevic. Management and Organizational History A Research Overview. Milton: Routledge, 2019. Print. (8 sider). **[KB]**.
+
 
 
 &nbsp;
@@ -40,16 +43,18 @@ Signaturforklaring:
 #### Inspirational reading
 - **[Seawright & Gerring]**: Seawright, J., & Gerring, J. (2008). Case Selection Techniques in Case Study Research: A Menu of Qualitative and Quantitative Options. Political Research Quarterly, 61(2), 294–308. (15 sider). **[KB]**.
 
+
+
 &nbsp;
-### Session 3: 
+### Session 3 (Sep-22)
 #### Required readings (74 sider)
-- **[Minto]**: Minto, Barbara. 2002. The pyramid principle: logic in writing and thinking. London: Financial Times Prentice Hall. Kap 1-3 (s. 5 - 31), kap. 5 - 6 (s. 63 - 85), kap. 8 (s. 113 - 136) (74 sider). **[ABS]**.
+- **[Minto]** Minto, Barbara. 2002. The pyramid principle: logic in writing and thinking. London: Financial Times Prentice Hall. Kap 1-3 (s. 5 - 31), kap. 5 - 6 (s. 63 - 85), kap. 8 (s. 113 - 136) (74 sider). **[ABS]**.
+
 
 
 
 &nbsp;
-### Session 4:
-#### Required readings (19 sider)
-- **[Meertens]**: Meertens, L. O., Starreveld, E., Iacob, M. E., & Nieuwenhuis, L. J. M. (2013, July). A business case method for business models. In Proceedings of the Third International Symposium on Business Modeling and Software Design Noordwijkerhout (pp. 33-42). (10 sider). **[ABS]**.
-- **[Bishop]**: Bishop, D. (2019). How to build a winning business case. IEEE Engineering Management Review, 47(2), 29–31. (3 sider). **[ABS]**.
-- **[Reiter]**: Reiter, K. L., Kilpatrick, K. E., Greene, S. B., Lohr, K. N., & Leatherman, S. (2007). How to develop a business case for quality. International Journal for Quality in Health Care, 19(1), 50-55. (6 sider). **[ABS]**.
+### Session 4 (Sep-29)
+#### Required readings (13 sider)
+- **[Meertens]** Meertens, L. O., Starreveld, E., Iacob, M. E., & Nieuwenhuis, L. J. M. (2013, July). A business case method for business models. In Proceedings of the Third International Symposium on Business Modeling and Software Design Noordwijkerhout (pp. 33-42). **[ABS]**.
+- **[Bishop]** Bishop, D. (2019). How to build a winning business case. IEEE Engineering Management Review, 47(2), 29–31. **[ABS]**.
