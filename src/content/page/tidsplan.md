@@ -16,7 +16,7 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
 02|Sep 15|Fortsat organisationsteori og metode |JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_2/session_2_slides.pdf) |
   |      | Data Structuring 1 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_2/session_2_slides.ipynb) | 
 03|Sep 22|Struktureret problemløsning|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.pdf)|
-  |      | Data Structuring 2 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.ipynb),  [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises.ipynb.ipynb), [sol](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises_sol.ipynb)| 
+  |      | Data Structuring 2 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.ipynb),  [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises.ipynb), [sol](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises_sol.ipynb)| 
 04|Sep 29|Business case|JT||
   |      | Data Structuring 3 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_slides.ipynb)| 
 05|Okt 06| How to solve a case | TJ + NJ| |
