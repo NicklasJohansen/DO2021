@@ -9,19 +9,19 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
 
 <br />
 
-\#  | Dato (uge)  | Titel | Underviser | Materiale
+\#  | Dato | Titel | Underviser | Materiale
 ------|------:|-------|:--------:|:------|
 01|Sep 08|Introduktion til Organisationsteori|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_1/session_1_slides.pdf) |
   |      |Python + Assignment 0|NJ| [abs](https://absalon.ku.dk/courses/51834/files/folder/Kursusmaterialer/Assignment%200?) | 
 02|Sep 15|Fortsat organisationsteori og metode |JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_2/session_2_slides.pdf) |
   |      | Data Structuring 1 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_2/session_2_slides.ipynb) | 
 03|Sep 22|Struktureret problemløsning|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.pdf)|
-  |      | Data Structuring 2 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.ipynb),  [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises.ipynb.ipynb)| 
+  |      | Data Structuring 2 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.ipynb),  [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises.ipynb.ipynb), [sol](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises_sol.ipynb.ipynb)| 
 04|Sep 29|Business case|JT||
-  |      |-|NJ|| 
-05|Okt 06|-|NJ| |
+  |      | Data Structuring 3 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_slides.ipynb)| 
+05|Okt 06| How to solve a case | TJ + NJ| |
   |      |Case 1: TBA|EXT| | 
-06|Okt 13|Case 1: Præsentation|EXT| |
+06|Okt 13|Case 1: Præsentation [1,3,5,8,9] |EXT| |
   |      |Case 1: Præsentation|EXT| | 
   |      | ---------  Efterårsferie  --------- | | |
 07|Okt 27|Information, organisering og begrænset rationalitet|JT| |
@@ -45,7 +45,8 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
 #### Legend
 - pdf: Slides fra undervisning
 - abs: Link til Absalon subpage
-- nb: Jupyter Notebook fra undervisning
+- nb: Jupyter Notebook exercises
+- sol: Jupyter Notebook solutions
 - EXT: Eksterne repræsentanter fra caseorganisationer
 
 #### Undervisere
