@@ -58,3 +58,13 @@ Signaturforklaring:
 #### Required readings (13 sider)
 - **[Meertens]** Meertens, L. O., Starreveld, E., Iacob, M. E., & Nieuwenhuis, L. J. M. (2013, July). A business case method for business models. In Proceedings of the Third International Symposium on Business Modeling and Software Design Noordwijkerhout (pp. 33-42). **[ABS]**.
 - **[Bishop]** Bishop, D. (2019). How to build a winning business case. IEEE Engineering Management Review, 47(2), 29–31. **[ABS]**.
+
+
+&nbsp;
+### Session 5 (Oct-6)
+- Ingen læsning. Vi lader op til case-arbejde.
+
+
+&nbsp;
+### Session 6 (Oct-13)
+- Vi læser udleveret case-materiale og løser case med vores gruppe.
