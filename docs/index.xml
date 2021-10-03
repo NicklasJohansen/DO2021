@@ -9,6 +9,16 @@
     <webMaster>nj@sodas.ku.dk (Nicklas Johansen)</webMaster>
     <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nicklasjohansen.github.io/DO2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cases</title>
+      <link>https://nicklasjohansen.github.io/DO2021/post/cases/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <author>nj@sodas.ku.dk (Nicklas Johansen)</author>
+      <guid>https://nicklasjohansen.github.io/DO2021/post/cases/</guid>
+      <description>Datadrevet Organisationsanalyse giver dig mulighed for at arbeje med rigtige organisationer og deres problemstillinger. Et case forløb er struktureret således:
+ Organisationen kommer på besøg i undervisningen. Cases præsenteres og data stiles til rådighed. Styrregruppemøde afholdes virtuelt mellem studerende og caseorganisation. Udvalgte grupper præsenteres deres caseløsinger foran dommerpanel fra caseorganisationen.  Vi forventer at alle grupper forsøger at løse casen. En løsning består af en præsentation (fx. powerpoint) samt en jupyter notebook.</description>
+    </item>
+    
+    <item>
       <title>Læsning</title>
       <link>https://nicklasjohansen.github.io/DO2021/page/l%C3%A6sning/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
