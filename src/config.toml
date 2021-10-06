@@ -67,21 +67,26 @@ publishDir = "docs"
   # Posts
   [[menu.main]]
       parent = "posts"
+      name = "Cases"
+      url = "post/cases/"
+      weight = 1
+  [[menu.main]]
+      parent = "posts"
       name = "Velkommen"
       url = "post/velkommen/"
-      weight = 1
+      weight = 2
   [[menu.main]]
       parent = "posts"
       name = "Install"
       url = "post/install/"
-      weight = 2
+      weight = 3
   [[menu.main]]
       parent = "posts"
       name = "Assignments"
       url = "post/assignments/"
-      weight = 3
+      weight = 4
   [[menu.main]]
       parent = "posts"
       name = "Eksamen"
       url = "post/eksamen/"
-      weight = 4
+      weight = 5
