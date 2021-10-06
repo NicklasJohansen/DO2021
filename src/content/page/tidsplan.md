@@ -19,10 +19,10 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
   |      | Data Structuring 2 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.ipynb),  [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises.ipynb), [sol](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises_sol.ipynb)| 
 04|Sep 29|Business case|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_slides.pdf)|
   |      | Data Structuring 3 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_slides.ipynb), [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_exercises.ipynb)| 
-05|Okt 06| How to solve a case | TJ + NJ| |
-  |      |Case 1: TBA|EXT| | 
-06|Okt 13|Case 1: Præsentation [1,3,5,8,9] |EXT| |
-  |      |Case 1: Præsentation|EXT| | 
+05|Okt 06| How to solve a case | TJ + NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_5/session_5_slides.ipynb) |
+  |      |Præsentation af 3Shape Case|EXT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_5/case/3Shape_case.pdf) | 
+06|Okt 13|Præsentation af caseløsninger |stud.| |
+  |      |Præsentation af caseløsninger |stud.| | 
   |      | ---------  Efterårsferie  --------- | | |
 07|Okt 27|Information, organisering og begrænset rationalitet|JT| |
   |      |-|NJ| | 

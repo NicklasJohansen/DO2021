@@ -33,15 +33,15 @@ Alle cases er bygget op om et narrativ, der placerer jer i en specifik rolle i c
 
 
 &nbsp;
-### Case 1: TBA
+### Case 1: 3Shape
 
 Tidspunkt  | Aktivitet 
 :------|:------|
-6. Okt kl. 14:15 | Caseorganisation præsenterer case.
-8. Okt kl. 12:00 | Virtuelt styregruppemøde med caseorganisation (60 min). [Tryk for link](https://ucph-ku.zoom.us/my/nicklas.johansen).
+6. Okt kl. 14:15 | Præsentation af 3Shape Case.
+8. Okt kl. 12:00 | Virtuelt styregruppemøde med 3Shape (60 min). [Tryk for link](https://ucph-ku.zoom.us/my/nicklas.johansen).
 11. Okt kl. 23:59 | Deadline for aflevering af caseløsning. 
 12. Okt kl. 10:00 | Offentliggørelse af hvilke to grupper der skal præsentere.
-13. Okt kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran dommerpanel.
+13. Okt kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran 3Shape styregruppe.
 
 
 &nbsp;
