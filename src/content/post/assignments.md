@@ -11,7 +11,8 @@ Vi forventer at du har løst Assignment 0 og Assignment 1 inden første forelæs
 
 **Assignment 1:** Tilgængelig nu, modtaget din mail. Deadline 6. September, kl. 12:00. Løses individuel og afleveres på SurveyXact.
 
-**Assignment 2:** Tilgængelig fra d. 1. November. Løses i grupper og afleveres på Absalon.
+**Assignment 2:** Tilgængelig nu, [her](https://docs.google.com/document/d/10gRnImzey0mFrOCUk4lLBQsgXeZnxu5J/edit?usp=sharing&ouid=104485570792794983089&rtpof=true&sd=true). Deadline d. 26. Oktober kl. 17:00. Løses i grupper og afleveres på Absalon.
+
 
 &nbsp;
 ## Assignment 0 - Python
@@ -75,3 +76,18 @@ Assignment 1 omhandler organisationsteori. Du bedes læse tre kapitler fra Scott
 &nbsp;
 #### Inspirational reading
 - Perrow, Charles (1986): Complex Organizations, New York: McGraw-Hill, kap. 1 pp.1-48. (48 sider)
+
+
+&nbsp;
+## Assignment 2 - Eksamen
+Assignment 2 er en eksamensforberedende opgave, du skal løse med din gruppe. Den har til formål at sikre konstruktiv dialog i gruppen og igangsætte dataindsamlingsprocesser. Skemaet herunder skal udfyldes per eksamensidé. Vi anbefaler, at man arbejder med 2-3 eksamensidéer indtil man har indsamlet data. Vi forventer, at hver gruppe udfylder skemaet for mindst to eksamensidéer for at bestå Assignment 2. Opgaven er frivillig.
+
+1. Download Template
+2. Ufyld skema for mindst to eksamensideer
+3. Gem som pdf og submit Absalon
+
+
+
+
+
+
