@@ -73,11 +73,10 @@ Signaturforklaring:
 &nbsp;
 ### [Efteråresferie]
 
-
 &nbsp;
 ### Session 7 (Oct-27)
 #### Required readings (52 sider)
-- **[Simon]** Simon, H. (1965). Administrative Decision Making. Public Administration Review, 25(1) (pp. 31-37). **[ABS]**.
-- **[Simon & March]** March, J. and Herbert A. Simon (1993): Organizations, 2nd ed. Blackwell Publishers, Cambridge, Massachusetts. s. 157-192 **[ABS]**
-- **[Sharma et al.]** Sharma, R., Mithas, S., & Kankanhalli, A. (2014). Transforming decision-making processes: a research agenda for understanding the impact of business analytics on organisations. European Journal of Information Systems, 23(4), 433-441 **[NET]**
+- **[Simon]** Simon, H. (1965): Administrative Decision Making. Public Administration Review, 25(1) (pp. 31-37). **[ABS]**.
+- **[Simon & March]** March, J. and Herbert A. Simon (1993): Organizations, 2nd ed. Blackwell Publishers, Cambridge, Massachusetts. s. 157-192. **[ABS]**.
+- **[Sharma et al.]** Sharma, R., Mithas, S., & Kankanhalli, A. (2014): Transforming decision-making processes: a research agenda for understanding the impact of business analytics on organisations. European Journal of Information Systems, 23(4), 433-441. **[NET]**.
 
