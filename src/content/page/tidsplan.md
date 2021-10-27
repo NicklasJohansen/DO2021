@@ -25,10 +25,10 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
   |      |Præsentation af caseløsninger |stud.| | 
   |      | ---------  Efterårsferie  --------- | | |
 07|Okt 27|Information, organisering og begrænset rationalitet|JT| |
-  |      |-|NJ| | 
-08|Nov 03|Bureaukrati|JT| |
-  |      |-|NJ| | 
-09|Nov 10|-|JT| |
+  |      | Data Visualization |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_slides.ipynb) | 
+08|Nov 03|Information, organisering og bureaukrati|JT| |
+  |      | Text as Data |NJ| | 
+09|Nov 10| Web Scraping |NJ| |
   |      |Case 2: TBA|EXT|| 
 10|Nov 17|Case 2: Præsentation|EXT| |
   |      |Case 2: Præsentation|EXT|| 
