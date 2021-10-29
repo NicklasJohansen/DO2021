@@ -59,7 +59,7 @@ Tidspunkt  | Aktivitet
 17. Nov kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran styregruppe.
 
 ```python:
-case_2_groups = [4,7,10,13,15,17,20]
+case_2_groups = [4,7,13,15,17,20]
 ```
 
 &nbsp;
@@ -71,7 +71,7 @@ Tidspunkt  | Aktivitet
 ... | ...
 
 ```python:
-case_3_groups = [2,6,11,12,14,16,19]
+case_3_groups = [2,6,10,11,12,14,16,19]
 ```
 
 

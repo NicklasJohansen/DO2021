@@ -18,14 +18,14 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
 03|Sep 22|Struktureret problemløsning|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.pdf)|
   |      | Data Structuring 2 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_slides.ipynb),  [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises.ipynb), [sol](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_3/session_3_exercises_sol.ipynb)| 
 04|Sep 29|Business case|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_slides.pdf)|
-  |      | Data Structuring 3 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_slides.ipynb), [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_exercises.ipynb)| 
+  |      | Data Structuring 3 |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_slides.ipynb), [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_exercises.ipynb), [sol](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_4/session_4_exercises_sol.ipynb)| 
 05|Okt 06| How to solve a case | TJ + NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_5/session_5_slides.ipynb) |
   |      |Præsentation af 3Shape Case|EXT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_5/case/3Shape_case.pdf) | 
 06|Okt 13|Præsentation af caseløsninger |stud.| |
   |      |Præsentation af caseløsninger |stud.| | 
   |      | ---------  Efterårsferie  --------- | | |
-07|Okt 27|Information, organisering og begrænset rationalitet|JT| |
-  |      | Data Visualization |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_slides.ipynb) | 
+07|Okt 27|Information, organisering og begrænset rationalitet|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_slides.pdf) |
+  |      | Data Visualization |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_slides.ipynb), [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_exercises.ipynb) | 
 08|Nov 03|Information, organisering og bureaukrati|JT| |
   |      | Text as Data |NJ| | 
 09|Nov 10| Web Scraping |NJ| |
