@@ -25,14 +25,14 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
   |      |Præsentation af caseløsninger |stud.| | 
   |      | ---------  Efterårsferie  --------- | | |
 07|Okt 27|Information, organisering og begrænset rationalitet|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_slides.pdf) |
-  |      | Data Visualization |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_slides.ipynb), [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_exercises.ipynb) | 
+  |      | Data Visualization |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_slides.ipynb), [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_exercises.ipynb), [sol](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_7/session_7_exercises_sol.ipynb) | 
 08|Nov 03|Information, organisering og bureaukrati|JT| |
-  |      | Text as Data |NJ| | 
+  |      | Strings, Queries and APIs |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_8/session_8_slides.ipynb) | 
 09|Nov 10| Web Scraping |NJ| |
   |      |Case 2: TBA|EXT|| 
 10|Nov 17|Case 2: Præsentation|EXT| |
   |      |Case 2: Præsentation|EXT|| 
-11|Nov 24|-|JT| |
+11|Nov 24| Text Analysis |NJ| |
   |      |Case 3: TBA|EXT|| 
 12|Dec 01|Case 3: Præsentation|EXT| |
   |      |Case 3: Præsentation|EXT|| 
