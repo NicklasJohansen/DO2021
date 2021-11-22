@@ -58,22 +58,23 @@ Tidspunkt  | Aktivitet
 16. Nov kl. 10:00 | Offentliggørelse af hvilke grupper der skal præsentere.
 17. Nov kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran ATP styregruppe.
 ```python:
-case_2_groups = [4,7,13,15,17,20]
+case_2_groups = [7,17,20]
 ```
 
 &nbsp;
-### Case 3: TBA
+### Case 3: Dansk Industri
 
 Tidspunkt  | Aktivitet 
 ------|:------|
-24. Nov kl. 14:15 | Caseorganisation præsenterer case.
-26. Nov kl. 12:00 | Virtuelt styregruppemøde.
+24. Nov kl. 14:15 | Præsentation af DI Case.
+26. Nov kl. 12:30 | Virtuelt styregruppemøde med ATP (30 min). [Tryk for link](https://ucph-ku.zoom.us/my/nicklas.johansen).
 29. Nov kl. 23:59 | Deadline for aflevering af caseløsning.
 30. Nov kl. 10:00 | Offentliggørelse af hvilke grupper der skal præsentere.
-1. Dec kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran styregruppe.
+1. Dec kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran DI styregruppe.
 ```python:
-case_3_groups = [2,6,10,11,12,14,16,19]
+case_3_groups = [2,4,6,10,11,12,13,14,15,16,19]
 ```
+
 
 
 &nbsp;
