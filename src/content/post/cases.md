@@ -42,6 +42,7 @@ Tidspunkt  | Aktivitet
 11. Okt kl. 23:59 | Deadline for aflevering af caseløsning. 
 12. Okt kl. 10:00 | Offentliggørelse: Gruppe 1 + 8 præsentere deres løsning i morgen.
 13. Okt kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran 3Shape styregruppe.
+
 ```python:
 case_1_groups = [1,3,5,8,9,18]
 ```
@@ -57,6 +58,7 @@ Tidspunkt  | Aktivitet
 15. Nov kl. 23:59 | Deadline for aflevering af caseløsning.
 16. Nov kl. 10:00 | Offentliggørelse af hvilke grupper der skal præsentere.
 17. Nov kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran ATP styregruppe.
+
 ```python:
 case_2_groups = [7,17,20]
 ```
@@ -71,6 +73,7 @@ Tidspunkt  | Aktivitet
 29. Nov kl. 23:59 | Deadline for aflevering af caseløsning.
 30. Nov kl. 10:00 | Offentliggørelse af hvilke grupper der skal præsentere.
 1. Dec kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran DI styregruppe.
+
 ```python:
 case_3_groups = [2,4,6,10,11,12,13,14,15,16,19]
 ```
