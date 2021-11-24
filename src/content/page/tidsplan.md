@@ -32,8 +32,8 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
   |      |Case 2: ATP|EXT|| 
 10|Nov 17|Case 2: Præsentation|STU| |
   |      |Case 2: Præsentation|STU| | 
-11|Nov 24| Text Analysis |NJ| |
-  |      |Case 3: TBA|EXT|| 
+11|Nov 24| Text Analysis |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_11/session_11_slides.ipynb) |
+  |      |Case 3: Dansk Industri|EXT|| 
 12|Dec 01|Case 3: Præsentation|STU| |
   |      |Case 3: Præsentation|STU| | 
 13|Dec 08|-|JT| |
