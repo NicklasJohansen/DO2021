@@ -29,17 +29,17 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
 08|Nov 03|Information, organisering og bureaukrati|JT| [pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_8/session_8_slides.pdf) |
   |      | Strings, Queries and APIs |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_8/session_8_slides.ipynb), [ex](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_8/session_8_exercises.ipynb), [sol](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_8/session_8_exercises_sol.ipynb) | 
 09|Nov 10| Web Scraping |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_9/session_9_slides.ipynb) |
-  |      |Case 2: ATP|EXT|| 
+  |      |Case 2: ATP|EXT|[pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_9/case/Slides.pdf)| 
 10|Nov 17|Case 2: Præsentation|STU| |
   |      |Case 2: Præsentation|STU| | 
 11|Nov 24| Text Analysis |NJ| [nb](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_11/session_11_slides.ipynb) |
-  |      |Case 3: Dansk Industri|EXT|| 
+  |      |Case 3: Dansk Industri|EXT|[pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_11/case/Slides.pdf)| 
 12|Dec 01|Case 3: Præsentation|STU| |
   |      |Case 3: Præsentation|STU| | 
-13|Dec 08|-|JT| |
-  |      |Case 4: TBA|EXT|| 
-14|Dec 15|Case 4: Præsentation|STU| |
-  |      |Case 4: Præsentation|STU| | 
+13|Dec 08|Case 4: UFM|EXT|[pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_13/case/Slides.pdf)|
+  |      |Case 4: UFM|EXT||
+14|Dec 15|Case 4: Præsentation|STU||
+  |      |Case 4: Præsentation|STU|| 
   |      | ---------   Deadline Eksamen  --------- | |
 
 #### Legend

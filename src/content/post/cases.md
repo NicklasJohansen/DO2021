@@ -69,7 +69,7 @@ case_2_groups = [7,17,20]
 Tidspunkt  | Aktivitet 
 ------|:------|
 24. Nov kl. 14:15 | Præsentation af DI Case.
-26. Nov kl. 12:30 | Virtuelt styregruppemøde med ATP (30 min). [Tryk for link](https://ucph-ku.zoom.us/my/nicklas.johansen).
+26. Nov kl. 12:30 | Virtuelt styregruppemøde med DI (30 min). [Tryk for link](https://ucph-ku.zoom.us/my/nicklas.johansen).
 29. Nov kl. 23:59 | Deadline for aflevering af caseløsning.
 30. Nov kl. 10:00 | Offentliggørelse af hvilke grupper der skal præsentere.
 1. Dec kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran DI styregruppe.
@@ -79,11 +79,16 @@ case_3_groups = [2,4,6,10,11,12,13,14,15,16,19]
 ```
 
 
-
 &nbsp;
-### Case 4: TBA
+### Case 4: Uddannelses- og Forskningsministeriet
 
 Tidspunkt  | Aktivitet 
 ------|:------|
-8. Dec kl. 14:15 | Caseorganisation præsenterer case.
-... | ...
+1. Dec kl. 15:00 | UFM Case offentliggøres
+8. Dec kl. 13:15 | Første møde med UFM + casearbejde
+13. Nov kl. 23:59 | Deadline for aflevering af caseløsning.
+14. Nov kl. 12:00 | Offentliggørelse af hvilke grupper der skal præsentere.
+15. Dec kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran fyldt auditorium.
+```python:
+case_4_groups = ['all']
+```
