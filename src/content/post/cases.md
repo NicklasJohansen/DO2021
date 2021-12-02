@@ -37,8 +37,8 @@ Alle cases er bygget op om et narrativ, der placerer jer i en specifik rolle i c
 
 Tidspunkt  | Aktivitet 
 :------|:------|
-6. Okt kl. 14:15 | Præsentation af 3Shape Case.
-8. Okt kl. 12:00 | Virtuelt styregruppemøde med 3Shape (60 min). [Tryk for link](https://ucph-ku.zoom.us/my/nicklas.johansen).
+06. Okt kl. 14:15 | Præsentation af 3Shape Case.
+08. Okt kl. 12:00 | Virtuelt styregruppemøde med 3Shape (60 min). [Tryk for link](https://ucph-ku.zoom.us/my/nicklas.johansen).
 11. Okt kl. 23:59 | Deadline for aflevering af caseløsning. 
 12. Okt kl. 10:00 | Offentliggørelse: Gruppe 1 + 8 præsentere deres løsning i morgen.
 13. Okt kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran 3Shape styregruppe.
@@ -73,7 +73,7 @@ Tidspunkt  | Aktivitet
 26. Nov kl. 12:30 | Virtuelt styregruppemøde med DI (30 min). [Tryk for link](https://ucph-ku.zoom.us/my/nicklas.johansen).
 29. Nov kl. 23:59 | Deadline for aflevering af caseløsning.
 30. Nov kl. 10:00 | Offentliggørelse af hvilke grupper der skal præsentere.
-1. Dec kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran DI styregruppe.
+01. Dec kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran DI styregruppe.
 
 ```python:
 case_3_groups = [2,4,6,10,11,12,13,14,15,16,19]
@@ -85,8 +85,8 @@ case_3_groups = [2,4,6,10,11,12,13,14,15,16,19]
 
 Tidspunkt  | Aktivitet 
 ------|:------|
-1. Dec kl. 15:00 | UFM Case offentliggøres
-8. Dec kl. 13:15 | Første møde med UFM + casearbejde
+01. Dec kl. 15:00 | UFM Case offentliggøres
+08. Dec kl. 13:15 | Første møde med UFM + casearbejde
 13. Nov kl. 23:59 | Deadline for aflevering af caseløsning.
 14. Nov kl. 12:00 | Offentliggørelse af hvilke grupper der skal præsentere.
 15. Dec kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran fyldt auditorium.
