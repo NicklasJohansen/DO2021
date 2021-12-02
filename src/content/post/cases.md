@@ -63,6 +63,7 @@ Tidspunkt  | Aktivitet
 case_2_groups = [7,17,20]
 ```
 
+
 &nbsp;
 ### Case 3: Dansk Industri
 
@@ -89,6 +90,7 @@ Tidspunkt  | Aktivitet
 13. Nov kl. 23:59 | Deadline for aflevering af caseløsning.
 14. Nov kl. 12:00 | Offentliggørelse af hvilke grupper der skal præsentere.
 15. Dec kl. 13:15 | Udvalgte grupper præsenterer deres løsning foran fyldt auditorium.
+
 ```python:
 case_4_groups = ['all']
 ```

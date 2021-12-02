@@ -37,9 +37,9 @@ Datadrevet Organisationsanalyse finder sted om onsdagen i lokale CSS 35-01-06 (C
 12|Dec 01|Case 3: Præsentation|STU| |
   |      |Case 3: Præsentation|STU| | 
 13|Dec 08|Case 4: UFM|EXT|[pdf](https://github.com/NicklasJohansen/DO2021/blob/main/teaching_material/session_13/case/Slides.pdf)|
-  |      |Case 4: UFM|EXT||
-14|Dec 15|Case 4: Præsentation|STU||
-  |      |Case 4: Præsentation|STU|| 
+  |      |Case 4: UFM|EXT| |
+14|Dec 15|Case 4: Præsentation|STU| |
+  |      |Case 4: Præsentation|STU| | 
   |      | ---------   Deadline Eksamen  --------- | |
 
 #### Legend
